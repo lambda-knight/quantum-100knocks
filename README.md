@@ -8,4 +8,4 @@
 
 ・回答作成後はreviewingフォルダにQ_00x.ipynbを移動
 
-・レビュー完了後はcompletedフォルダにQ_00x.ipynbを移動
+・レビュー完了後はcompletedフォルダにQ_00x.ipynbを移動しqiskit_100knocks.ipynbおよびqiskit_100knocks_answer.ipynbに追記
